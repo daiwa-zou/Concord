@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libtests.a CMakeFiles/tests.dir/core/test_metro.cpp.o CMakeFiles/tests.dir/agent/test_byte.cpp.o CMakeFiles/tests.dir/ui/test_beacon.cpp.o CMakeFiles/tests.dir/database/test_vault.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libtests.a

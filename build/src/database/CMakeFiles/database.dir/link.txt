@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libdatabase.a CMakeFiles/database.dir/vault.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libdatabase.a

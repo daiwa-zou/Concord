@@ -1,0 +1,3 @@
+#ifndef DATABASE_VAULT_H
+
+#endif // !DATABASE_VAULT_H

@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/Users/daiwazou/Repositories/Concord/build/src/core",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/daiwazou/Repositories/Concord/include -I/Users/daiwazou/Repositories/Concord/include/core -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/core.dir/metro.cpp.o -c /Users/daiwazou/Repositories/Concord/src/core/metro.cpp",
+  "file": "/Users/daiwazou/Repositories/Concord/src/core/metro.cpp",
+  "output": "src/core/CMakeFiles/core.dir/metro.cpp.o"
+},
+{
+  "directory": "/Users/daiwazou/Repositories/Concord/build/src/agent",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/daiwazou/Repositories/Concord/include -I/Users/daiwazou/Repositories/Concord/include/agent -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/agent.dir/byte.cpp.o -c /Users/daiwazou/Repositories/Concord/src/agent/byte.cpp",
+  "file": "/Users/daiwazou/Repositories/Concord/src/agent/byte.cpp",
+  "output": "src/agent/CMakeFiles/agent.dir/byte.cpp.o"
+},
+{
+  "directory": "/Users/daiwazou/Repositories/Concord/build/src/database",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/daiwazou/Repositories/Concord/include -I/Users/daiwazou/Repositories/Concord/include/database -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/database.dir/vault.cpp.o -c /Users/daiwazou/Repositories/Concord/src/database/vault.cpp",
+  "file": "/Users/daiwazou/Repositories/Concord/src/database/vault.cpp",
+  "output": "src/database/CMakeFiles/database.dir/vault.cpp.o"
+},
+{
+  "directory": "/Users/daiwazou/Repositories/Concord/build/src/ui",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/daiwazou/Repositories/Concord/include -I/Users/daiwazou/Repositories/Concord/include/ui -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/beacon.dir/beacon.cpp.o -c /Users/daiwazou/Repositories/Concord/src/ui/beacon.cpp",
+  "file": "/Users/daiwazou/Repositories/Concord/src/ui/beacon.cpp",
+  "output": "src/ui/CMakeFiles/beacon.dir/beacon.cpp.o"
+},
+{
+  "directory": "/Users/daiwazou/Repositories/Concord/build/tests",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/daiwazou/Repositories/Concord/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/tests.dir/core/test_metro.cpp.o -c /Users/daiwazou/Repositories/Concord/tests/core/test_metro.cpp",
+  "file": "/Users/daiwazou/Repositories/Concord/tests/core/test_metro.cpp",
+  "output": "tests/CMakeFiles/tests.dir/core/test_metro.cpp.o"
+},
+{
+  "directory": "/Users/daiwazou/Repositories/Concord/build/tests",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/daiwazou/Repositories/Concord/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/tests.dir/agent/test_byte.cpp.o -c /Users/daiwazou/Repositories/Concord/tests/agent/test_byte.cpp",
+  "file": "/Users/daiwazou/Repositories/Concord/tests/agent/test_byte.cpp",
+  "output": "tests/CMakeFiles/tests.dir/agent/test_byte.cpp.o"
+},
+{
+  "directory": "/Users/daiwazou/Repositories/Concord/build/tests",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/daiwazou/Repositories/Concord/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/tests.dir/ui/test_beacon.cpp.o -c /Users/daiwazou/Repositories/Concord/tests/ui/test_beacon.cpp",
+  "file": "/Users/daiwazou/Repositories/Concord/tests/ui/test_beacon.cpp",
+  "output": "tests/CMakeFiles/tests.dir/ui/test_beacon.cpp.o"
+},
+{
+  "directory": "/Users/daiwazou/Repositories/Concord/build/tests",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/daiwazou/Repositories/Concord/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/tests.dir/database/test_vault.cpp.o -c /Users/daiwazou/Repositories/Concord/tests/database/test_vault.cpp",
+  "file": "/Users/daiwazou/Repositories/Concord/tests/database/test_vault.cpp",
+  "output": "tests/CMakeFiles/tests.dir/database/test_vault.cpp.o"
+}
+]
