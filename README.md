@@ -37,5 +37,5 @@ The project consists of several key components:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/config-management-system.git
-   cd config-management-system
+   TODO...
+   ```
