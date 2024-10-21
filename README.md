@@ -2,7 +2,8 @@
 
 **Version:** 1.0
 
-**Author:** Daiwa Zou 
+**Author:** Daiwa Zou
+
 **License:** N/A 
 
 ## Overview
