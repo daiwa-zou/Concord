@@ -37,5 +37,5 @@ The project consists of several key components:
 1. Clone the repository:
 
    ```bash
-   TODO...
+   TODO
    ```
