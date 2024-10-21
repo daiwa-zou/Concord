@@ -1,9 +1,10 @@
-# Config Management System
+# Concord
 
 **Version:** 1.0
 
-**Author:** [Your Name]  
-**License:** [Your License]  
+**Author:** Daiwa Zou
+
+**License:** N/A 
 
 ## Overview
 
@@ -36,5 +37,5 @@ The project consists of several key components:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/config-management-system.git
-   cd config-management-system
+   TODO
+   ```
