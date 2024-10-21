@@ -1,9 +1,9 @@
-# Config Management System
+# Concord
 
 **Version:** 1.0
 
-**Author:** [Your Name]  
-**License:** [Your License]  
+**Author:** Daiwa Zou 
+**License:** N/A 
 
 ## Overview
 
