@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libbeacon.a CMakeFiles/beacon.dir/beacon.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libbeacon.a
